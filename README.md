@@ -1,93 +1,529 @@
+<img align="center" src= "https://user-images.githubusercontent.com/72058182/185760299-082c240f-0e4e-425e-922a-63aecbcd4825.jpg" width="1200px">
 
-<p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/></p>
+<!--
+Fonte utilizada: Arial rounded
+Referências para ícones: https://icons8.com/icons, https://devicon.dev
+-->  
+
+<!--### <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="85%" height="auto"><img src="https://user-images.githubusercontent.com/72058182/197407343-4f71131d-9fb7-4de8-b8e0-b5de7f4b7f21.png" width="auto" height="60px">   <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2> -->
+
+<!-- HELLO WELCOME TO MY GITHUB PROFILE-->
+   <div style="width: 100%; overflow-x: auto; text-align: center;">
+     <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
+         <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+        <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
+        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
+  </div>
 
 
-
-<p align="center">
-</p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
-<h1 align="center">Hello, Everyone</h1> 
-
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
-
-
-
-# About Me
-
-Hello there! I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3** technologies.
-I can write Smart Contracts in Solidity, Rust, Move, FunC on EVM compatible chains, Solana, CosmWasm, Near, Aptos, Sui and TON.
-
-## Currently
-- 🔭 I'm employed as a **Software Engineer** where I play a pivotal role in contributing to both the frontend and backend aspects of our web applications.
-  - 💼 Building user interfaces with a focus on **usability** and **performance**.
-  - 🛠️ Developing server-side logic that scales well and integrates seamlessly with various databases and services.
-  - 👁️ Ensuring **cross-platform compatibility** and implementing **responsive design**.
-- 🖥️ Additionally, I am deeply involved with **smart contract development**, essential for today's decentralized applications.
-  - 📜 Writing **Solidity & Rust, Move, FunC Contracts** with a strong emphasis on **security** and **gas optimization**.
-  - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
-
-## On the Horizon
-- 🌱 I'm currently delving into the world of **Technical Content Writing**.
-  - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
-- 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
-  - 🏗️ Experimenting with new frameworks and languages to stay ahead in the fast-paced tech landscape.
-
-## Goals
-- 🤔 I’m looking forward to connecting and exchanging ideas with other developers in the tech community.
-  - 🤝 Open to mentorship opportunities, peer programming sessions, and tech meetups.
-  - 🔄 Keen on contributing to open source projects and participating in coding challenges.
-
-Feel free to reach out if you're interested in collaborating or just want to chat about tech!
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
-
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-I am always open to work!!!!
----
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- PRIMEIROS CARDS -->
+<!--<div align="center">
+GIF DE ESTRELINHA<img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="96%" height="auto"> <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"><br>
+<table align="center" width="1200px" style="border: 5px solid transparent;">
+   <tbody>
+     <tr valign="middle">
+       <td class="table-cell" width="80%" align="justify" style="background-color: transparent;">
+          <div class="image-container">
+          <img height="175cm" width="900px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue"><img height="175cm" width="300px"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+          </div>   
+      </td>
+     </tr>
+  </tbody>
+</table>
+</div>
+-->
+<!--
+<div style="width: 100%; overflow-x: auto;">
+  <table  align="center" style="border-collapse: collapse; border-spacing: 0; border: none;">
+    <tbody>
+      <tr valign="middle" style="background-color: transparent;">
+        <td class="table-cell" style="padding: 0;">
+          <div class="image-container" style="display: inline-block; margin-right: 10px; overflow: hidden;">
+            <img height="200px" width="720px" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
+          </div>
+        </td>
+        <td class="table-cell" style="padding: 0;">
+          <div class="image-container" style="display: inline-block; overflow: hidden;">
+            <img height="200px" width="350px" style="max-width: 350px; width: 350px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+-->
+<!-- PRIMEIROS 2 CARDS-->   
+<div style="width: 100%; overflow-x: auto; text-align: center;">
+  <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;">
+    <br><img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
+  <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+  </div>
 
 
 
+<!-- ABOUT ME-->
+<div>
+<!--<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px">-->
+<img src="https://user-images.githubusercontent.com/72058182/196829098-406be351-7869-4be7-94fe-73f2ab76bf50.png" height="39px"><br>
+<div align="justify">
+   <span style="display: block; text-align: center; font-size: 10px;" 
+
+Hello, I'm Vitalli <b><span style="color: #539782;">(He)</span></b>. Welcome! Currently, I work as a <b>Machine Learning Engineer</b> in the Technology and Innovation department at [Weni](https://weni.ai), where I integrate, train and evaluate artificial intelligence models using Natural Language Processing (NLP) techniques with a focus on LLMs. <br>
+<br>My work mainly involves Python programming applied in machine learning and deep learning, focusing on Natural Language Generation (NLG) and Natural Language Understanding (NLU). My experience includes enhancing the communication of intelligent agents (Chatbots). Tasks that are usually part of my routine include: creating experiments for models, searching and tuning hyperparameters for training, performance evaluation, verifying inference and latency in model responses, artifact manipulation, model quantization, and researching/reading articles to stay updated in the field. The skills I'm learning vary according to each model development phase: creating APIs, code versioning and structuring, using machine learning frameworks like PyTorch, and documenting processes.
+
+I have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at [Tera](https://somostera.com). I assisted students in structuring workflows in classes and project creation, as well as providing support. I am a technology student, currently studying Systems Analysis and Development at FATEC, and a bachelor's degree holder in Philosophy from UFOP.
+
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> 
+<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e8e0dc8-29e5-43f0-88b2-6db4d6ff3ab9" height="13cm" width=""> <i>I'm a fan of horror movies and books, as well as detective and investigative fiction. I love playing games, and one of my favorite genres is RPG. My all-time favorite games are Stardew Valley, Baldur's Gate, Animal Crossing, and Monster Hunter.</i> <br>
+            </span>
+      </div>
+
+   
+</div>
+<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+
+<!-- INTERESTED IN -->
+<img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="39px"><br>
+<img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ARTIFICIAL_INTELLIGENCE-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MACHINE_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-DEEP_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-STATISTICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LOGIC-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+<br>
+<!-- PRONOMES E FUN FACT -->
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="14">  I support and encourage <b>women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community (<span style="color: #539782;"><b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b>)</span> and Brazilian Women in Text Processing (<span style="color: #539782;"><b>[BPLN- Brasileiras em PLN](https://brasileiraspln.com)</b></span>). These are incredible communities that have many initiatives and contributions for women. Check them out for more information and to learn about their work!🌼 
+<br>
+
+<!-- ANOTHER STATS -->          
+<!--<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15"> Check my Github Status 👇
+   <table align="center" width="1200px" style="border: 5px solid transparent;">
+   <tbody>
+     <tr valign="middle">
+       <td class="table-cell" width="80%" height="175cm" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+          <div class="image-container">
+          <img height="175cm" width="600" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
+          <img height="175cm" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
+          <img height="175cm" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=pie&theme=vue&hide_title=true&hide=TSQL,Java">   
+          </div>   
+      </td>
+     </tr>
+  </tbody>
+</table>
+<img height="200cm" width="168cm" style="max-width: 168px;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=pie&theme=vue&hide_title=true&hide=TSQL,Java,Dockerfile,Python"> 
+</div>-->
+<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+
+<!-- ANOTHER STATS -->
+<!-- PROGILE STATS 
+<div style="width: 100%; overflow-x: auto;">
+  <table align="center" width="1000px" style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
+    <tbody>
+      <tr valign="middle">
+        <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+          &ensp;&ensp;<img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30" width="">
+          <div class="image-container" style="overflow: hidden;">
+            <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
+            <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+--> 
+<!-- TO MEXENDO AQUIII --> 
+<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
+    <img height="39" width="" style="margin: auto; display: block;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5">
+</div>
+<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
+   <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
+   <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
+</div>
+
+
+
+
+
+<div align="center" style="width:100%; overflow-x: auto;">
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&row=2&no-frame=true&theme=flat&rank=-?"> <br>
+</div>
+
+<!--
+<div style="width: 100%; overflow-x: auto;">
+  <table align="center" width="1000px" style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0; border-color: transparent;">
+    <tbody>
+      <tr valign="middle">
+        <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none; padding: 0; border-color: transparent;">
+          <div class="image-container" style="overflow: hidden;">
+            <img height="200cm" width="300cm" style="max-width: 700px; width: 700px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&row=2&no-frame=true&theme=flat&rank=-?">   
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+-->
+<!--
+<div align="center" style="width:100%; overflow-x: auto;">
+   <img height="" width="" style="max-width: ; width: ; height: ;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mel-iza&theme=vue">
+   <img height="" width="" style="max-width: ; width:; height: ;" src="https://streak-stats.demolab.com?user=DenverCoder1&show_icons=true&theme=vue&row=2&no-frame=true">  
+</div>
+
+
+<img height="200cm" width="350cm" style="max-width: 350px; width: 180px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mel-iza&theme=vue">
+<img height="200cm" width="350cm" style="max-width: 350px; width: 180px; height: 200px;" src="https://streak-stats.demolab.com?user=DenverCoder1&show_icons=true&theme=vue&row=2&no-frame=true">  
+
+-->
+
+<!-- TEST HERE --> 
+
+
+   <!-- CERTIFICATIONS 
+<div>
+<table align="center" width="250px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
+  <tbody>
+    <tr valign="middle">
+        </td>
+        <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+           <img height="200cm" width="300cm" style="max-width: 400px; width: 400px; height: 200px;" src="https://streak-stats.demolab.com?user=DenverCoder1&show_icons=true&theme=vue&row=2&no-frame=true">  
+       </td>
+       <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+         &ensp;&ensp;&ensp;&ensp;<img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""> 
+        <br>Microsoft AI-900<br> 
+         <img height="135cm" width="125cm" style="max-width: 300cm"; src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
+    </tr>
+  </tbody>
+</table>
+</center>
+</div>
+--> 
+   
+<br>
+<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+
+<!-- I'M LEARNING-->          
+<img height="35px" width="180" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2125a4ee-16a8-4279-9e7a-13f5869a7fc3"><br>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies: <br>
+
+<div style="display: flex;">
+<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
+  <tbody> 
+    <tr> 
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Python<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Git<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        GitHub<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a5372fb0-95bc-4f35-9e44-58aaebb3c179">
+      </td> 
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Jupyter<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Docker<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+       Ubuntu<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Pytorch<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" >
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        FAST API<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        HuggingFace<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/87b19ec4-45ef-42f9-a1a7-95318fb49e4b">
+      </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        RunPod<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2d9e4114-0d6f-473c-b517-b7439f8a0590">
+      </td>   
+    </tr>
+     <tr> 
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Numpy<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+      </td> 
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        VSCode<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      </td> 
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Anaconda<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+      </td>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Stack Overflow<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/de2f6c4c-eef0-4451-83c0-fe67ae8fab52">
+      </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Pandas<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+      </td> 
+     </tr>
+  </tbody>
+</table>
+</div> 
+<br><br><br><br><br>
+<div>
+
+
+<!-- I WISH TO LEARN-->    
+<img height="35px" width="195" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning: <br>
+</div>
+<div style="display: flex;">
+<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
+  <tbody> 
+    <tr>
+    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Tensorflow<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
+     </td> 
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Django<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Flask<br>
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5f8e94e3-b073-4fe3-9822-d2b47e8e2590"> 
+      </td>
+    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Java<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      </td>   
+    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        SQL<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+      </td>
+     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Google Cloud<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
+     </td> 
+     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Kubernetes<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
+     </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Grafana<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        AWS<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Bash<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+      </td>  
+    </tr>
+  </tbody>
+</table>
+</div>
+<br><br><br><br><br>
+
+<div>
+<!-- HOBBIES-->    
+<img height="35px" width="180" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity:<br><br>
+</div> 
+<div style="display: flex;">
+   <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MARKDOWN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b"> 
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-PHOTOSHOP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-CANVA-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-OPENSHOT-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+</body>
+</div>
+
+</html>
+
+
+<br>  
+<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+
+<!-- CARDS DE CONTATO -->
+<div align="center">
+<!-- <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/27633edf-e1fb-4069-9c69-87f3058b9388" height="30px"> -->
+<!--<a href="https://www.linkedin.com/in/mel-5664a1bb/">
+<img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto" ><a href="@Mel-Iza"> <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%"> <br> <a href="mailto:meliza.caug@gmail.com"> <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto" > <a href="https://medium.com/@meliza-caug"><img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">  <br> <a href="mailto:mel.augusto@fatec.sp.gov.br"><img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto" > <a href="mailto:mel.augusto@weni.ai"><img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto" > -->
+<!-- <br><img align="center" height="" width="" style="max-width:350px ; width:350px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560"> -->
+<!--
+<br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d" height="30px">
+<br><img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-GITHUB-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=@Mel-Iza">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-EMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Ameliza.caug%40gmail.com">
+<br>
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MEDIUM-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https://medium.com/@meliza-caug">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-HOTMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-SLACK-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+</div>
+<br>
+   <div align="center" style="width: 100%;">
+ </div> 
+-->
+ 
+<!-- TESTANDO AQUIIIIIIIII -->
+<!--<table align="center" style="width: 100%;"> style="display: block; margin-left: auto; margin-right: auto;
+  <tr>
+    <td style="vertical-align: middle; text-align: center;">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br>
+       <div align="center">
+           <img height="39px" width="" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br>
+         <span style="display: block; text-align: center; font-size: 10px;">---------------------------------------</span>
+      </div>
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-GITHUB-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=@Mel-Iza">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-EMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Ameliza.caug%40gmail.com">
+    <br>
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MEDIUM-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https://medium.com/@meliza-caug">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-HOTMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-SLACK-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+    </td>
+    <td style="vertical-align: top;">
+      <img align="center" height="" width="" style="max-width:350px ; width:350px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
+    </td>
+  </tr>
+</table>
+ -->
+
+
+
+<!--
+<div align="center" style="width: 100%;">
+  <div style="float: left; text-align: center;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">
+    <br><img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-GITHUB-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=@Mel-Iza">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-EMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Ameliza.caug%40gmail.com">
+    <br>
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MEDIUM-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https://medium.com/@meliza-caug">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-HOTMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-SLACK-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+  </div>
+  <div style="float: left; text-align: center;">
+    <img align="center" height="135px" width="350px" style="max-width:350px; height:135px;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
+  </div>
+</div>
+-->
+
+<div align="center" style="width: 100%;">
+   <img align="center" height="" width="" style="display: block; margin-left: auto; margin-right: auto; max-width:400px; width:400px; height:;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D">
+ </div>  
+
+
+<!-- ROBOZINHO E PROFILE VIEWS 
+<img src="https://img.shields.io/badge/build--%238dd8c0?style=plastic&label=%F0%9F%8C%BC%20PROFILE%20VIEWS&labelColor=5fa790&color=%2371af9b&link=https://komarev.com/ghpvc/?username=Mel-iza" height="80px" width="">-->
+<div align="center" style="width: 100%;">
+  <div style="float: left; text-align: center;">
+     <br><img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">
+<!-- LINKEDIN -->
+<a href="https://www.linkedin.com/in/mel-5664a1bb/">
+   <br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5b2236e2-cf14-467d-bcb6-3c69d2c6911c" height="28px" width="">
+</a>
+<!-- EMAIL -->
+<a href="mailto:meliza.caug@gmail.com">
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ade66fa4-225a-4124-baee-57a452cf62eb" height="28px" width="">
+</a>
+<!-- HOTMAIL -->
+<a href="mailto:mel.augusto@fatec.sp.gov.br">
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3e569641-2221-450a-8147-c6b1f3169589" height="28px" width="">
+</a>
+<!-- DISCORD -->
+<a href="#" onclick="alert('mel7514'); return false;">  
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2864db5-a3b2-41ed-b197-9c8765149b6b" height="28px" width="" onclick="alert('mel7514');">
+</a>
+<!-- HUGGINGFACE -->
+<a href="https://huggingface.co/Mel-Iza0"> 
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3d754583-1dfb-497b-b52e-96ca7a6314d1" height="28px" width="">
+</a>
+  </div>
+<div align="center"> 
+<!-- OUTRO <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/742134dc-aac0-41fc-a8ce-59e5fb3e37b9" height="105px" width="">-->
+
+<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=plastic&label=⭐+Profile+Views+_+" height="20" width="166">
+<!-- LINKEDIN -->  
+<br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/94bab1cf-9b3c-4fb1-aaed-162b9d5c0224" height="15px" width="";"> 
+<!-- <br><img style="display: block; margin-left: auto; margin-right: auto; " src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/742134dc-aac0-41fc-a8ce-59e5fb3e37b9" height="115px" width="">-->
+
+
+
+
+
+</div>
+
+<div align="center">
+
+<!--
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-GITHUB-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=@Mel-Iza">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-EMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Ameliza.caug%40gmail.com">
+<br>
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MEDIUM-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https://medium.com/@meliza-caug">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-HOTMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-SLACK-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+</div>
+
+
+
+<!--
+  <table align="center"  style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
+  <tr>
+    <td style="vertical-align: top; width: 350px; style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
+      <br><br>
+      <a href="https://www.linkedin.com/in/mel-5664a1bb/">
+        <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto">
+      </a>
+      <a href="@Mel-Iza">
+        <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%">
+      </a>
+      <br>
+      <a href="mailto:meliza.caug@gmail.com">
+        <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto">
+      </a>
+      <a href="https://medium.com/@meliza-caug">
+        <img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">
+      </a>
+      <br>
+      <a href="mailto:mel.augusto@fatec.sp.gov.br">
+        <img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto">
+      </a>
+      <a href="mailto:mel.augusto@weni.ai">
+        <img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto">
+      </a>
+        <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
+    </td>
+    <td style="vertical-align: top; width: 350px; style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
+    </td>
+  </tr>
+</table>
+-->
+
+
+
+<!-- -->
+<!--
+**Mel-iza/Mel-Iza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
