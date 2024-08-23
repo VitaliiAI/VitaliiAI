@@ -5,7 +5,6 @@ Fonte utilizada: Arial rounded
 Referências para ícones: https://icons8.com/icons, https://devicon.dev
 -->  
 
-<!--### <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="85%" height="auto"><img src="https://user-images.githubusercontent.com/72058182/197407343-4f71131d-9fb7-4de8-b8e0-b5de7f4b7f21.png" width="auto" height="60px">   <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2> -->
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
    <div style="width: 100%; overflow-x: auto; text-align: center;">
