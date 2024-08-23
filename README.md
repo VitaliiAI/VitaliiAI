@@ -94,7 +94,7 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
     <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LOGIC-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
 <br>
 <!-- PRONOMES E FUN FACT -->
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="14">  I support and encourage <b>women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community (<span style="color: #539782;"><b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b>)</span> and Brazilian Women in Text Processing (<span style="color: #539782;"><b>[BPLN- Brasileiras em PLN](https://brasileiraspln.com)</b></span>). These are incredible communities that have many initiatives and contributions for women. Check them out for more information and to learn about their work!🌼 
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="14">  
 <br>
 
 <!-- ANOTHER STATS -->          
@@ -453,48 +453,9 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
   <tr>
     <td style="vertical-align: top; width: 350px; style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
       <br><br>
-      <a href="https://www.linkedin.com/in/mel-5664a1bb/">
-        <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto">
-      </a>
-      <a href="@Mel-Iza">
-        <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%">
-      </a>
-      <br>
-      <a href="mailto:meliza.caug@gmail.com">
-        <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto">
-      </a>
-      <a href="https://medium.com/@meliza-caug">
-        <img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">
-      </a>
-      <br>
-      <a href="mailto:mel.augusto@fatec.sp.gov.br">
-        <img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto">
-      </a>
-      <a href="mailto:mel.augusto@weni.ai">
-        <img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto">
-      </a>
-        <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
     </td>
     <td style="vertical-align: top; width: 350px; style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
     </td>
   </tr>
 </table>
--->
-
-
-
-<!-- -->
-<!--
-**Mel-iza/Mel-Iza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
