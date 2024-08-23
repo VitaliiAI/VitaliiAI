@@ -1,4 +1,4 @@
-<img align="center" src= "https://user-images.githubusercontent.com/72058182/185760299-082c240f-0e4e-425e-922a-63aecbcd4825.jpg" width="1200px">
+
 
 <!--
 Fonte utilizada: Arial rounded
