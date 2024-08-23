@@ -428,39 +428,10 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 <div align="center" style="width: 100%;">
   <div style="float: left; text-align: center;">
      <br><img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">
-<!-- LINKEDIN -->
-<a href="https://www.linkedin.com/in/mel-5664a1bb/">
-   <br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5b2236e2-cf14-467d-bcb6-3c69d2c6911c" height="28px" width="">
-</a>
-<!-- EMAIL -->
-<a href="mailto:meliza.caug@gmail.com">
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ade66fa4-225a-4124-baee-57a452cf62eb" height="28px" width="">
-</a>
-<!-- HOTMAIL -->
-<a href="mailto:mel.augusto@fatec.sp.gov.br">
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3e569641-2221-450a-8147-c6b1f3169589" height="28px" width="">
-</a>
-<!-- DISCORD -->
-<a href="#" onclick="alert('mel7514'); return false;">  
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2864db5-a3b2-41ed-b197-9c8765149b6b" height="28px" width="" onclick="alert('mel7514');">
-</a>
-<!-- HUGGINGFACE -->
-<a href="https://huggingface.co/Mel-Iza0"> 
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3d754583-1dfb-497b-b52e-96ca7a6314d1" height="28px" width="">
-</a>
-  </div>
 <div align="center"> 
 <!-- OUTRO <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/742134dc-aac0-41fc-a8ce-59e5fb3e37b9" height="105px" width="">-->
 
 <img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=plastic&label=⭐+Profile+Views+_+" height="20" width="166">
-<!-- LINKEDIN -->  
-<br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/94bab1cf-9b3c-4fb1-aaed-162b9d5c0224" height="15px" width="";"> 
-<!-- <br><img style="display: block; margin-left: auto; margin-right: auto; " src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/742134dc-aac0-41fc-a8ce-59e5fb3e37b9" height="115px" width="">-->
-
-
-
-
-
 </div>
 
 <div align="center">
