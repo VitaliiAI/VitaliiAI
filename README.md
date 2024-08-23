@@ -10,8 +10,7 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
    <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
   
-        <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
-        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
+     
   </div>
 
 
